@@ -19,12 +19,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
 <!-- ## <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=codergo7&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api?username=rcmzyldz&theme=dark" >
 ## <summary>:bulb:  Most Used Languages</summary> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergo7&layout=compact&theme=dark"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmzyldz&layout=compact&theme=dark"> 
 
 
-<!--
+
 **rcmzyldz/rcmzyldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
