@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi, I am Rahime! 
+# Hi 👋 I am Rahime! 
 <!-- ## I am an Oracle Certified Java Developer -->
 ### My portfolio website (click) => https://rcmzyldz.github.io/my-portfolio/
 ### 🔭 I’m currently studying Java EE Course in Intec Brussel => https://www.intecbrussel.be/
