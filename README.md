@@ -1,6 +1,6 @@
 # Hi 👋 I am Rahime! 
 <!-- ## I am an Oracle Certified Java Developer -->
-### My portfolio website (click) => https://rcmzyldz.github.io/my-portfolio/ (coming soon)
+<!-- ### My portfolio website (click) => https://rcmzyldz.github.io/my-portfolio/ (coming soon) -->
 ### 🌱 I’m currently studying Spring-Boot in Intec Brussel => https://www.intecbrussel.be/
  ![](https://komarev.com/ghpvc/?username=rcmzyldz) 
 ### Languages and Tools:
