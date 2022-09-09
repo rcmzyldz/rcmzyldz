@@ -1,7 +1,7 @@
 # Hi 👋 I am Rahime! 
 ## I am an Oracle Certified Java Developer 
 ### My portfolio website (click) => https://rcmzyldz.github.io/my-portfolio/
-### 🌱 I’m currently looking for new opportunities!
+### 🌱 I’m currently looking for new challenges!
 ### 📫 How to reach me: rahime1yildiz@gmail.com
  ![](https://komarev.com/ghpvc/?username=rcmzyldz) 
 ### Languages and Tools:
