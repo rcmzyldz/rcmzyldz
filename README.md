@@ -1,7 +1,6 @@
-# Hi 👋 I am Rahime! 
-## I am an Oracle Certified Java Developer 
+<!-- ## I am an Oracle Certified Java Developer -->
 ### My portfolio website (click) => https://rcmzyldz.github.io/my-portfolio/
-### 🌱 I’m currently looking for new challenges!
+### 🌱 I’m currently preparing for Java SE 8 Programmer I Exam
 ### 📫 How to reach me: rahime1yildiz@gmail.com
  ![](https://komarev.com/ghpvc/?username=rcmzyldz) 
 ### Languages and Tools:
@@ -23,13 +22,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rcmzyldz&theme=dark" >
 ## <summary>:bulb:  Most Used Languages</summary> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmzyldz&layout=compact&theme=dark"> 
-
-
-  
+  <!--  
 **rcmzyldz/rcmzyldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<--
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
